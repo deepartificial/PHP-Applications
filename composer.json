@@ -1,0 +1,24 @@
+{
+    "name": "isoftware/application",
+    "description": "Take artificial intelligence with you everywhere",
+    "version":"v0.1",
+    "homepage": "https://github.com/i-Software/Enigne",
+    "type": "library",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "iSoftware Organization",
+            "email": "iSoftware.NGO@gmail.com",
+            "homepage": "https://github.com/i-Software"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "iSoftware\\Application\\NLP": "NLP/"
+        }
+    }
+}

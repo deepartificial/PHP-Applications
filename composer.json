@@ -2,7 +2,7 @@
     "name": "isoftware/application",
     "description": "Take artificial intelligence with you everywhere",
     "version":"v0.1",
-    "homepage": "https://github.com/i-Software/Enigne",
+    "homepage": "https://github.com/i-Software/PHP-Applications",
     "type": "library",
     "license": "AGPL-3.0",
     "authors": [

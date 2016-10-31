@@ -122,4 +122,5 @@ class Translation extends Application
         $this->request();
         return $this->Getter('output')['translation'];
     }
+
 }
